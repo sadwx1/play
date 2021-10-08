@@ -124,7 +124,7 @@
   .button {
     display: block;
     border-radius: 100px;
-    width: 80px;
+    width: 150px;
     transform: translate(285%, -390%);
     cursor: pointer;
   }
